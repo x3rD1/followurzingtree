@@ -6,7 +6,7 @@ body {
 .main {
     display: flex;
     flex-direction: column;
-    height: 840px;
+    height: 790px;
     justify-content: space-between;
 }
 
@@ -55,7 +55,6 @@ li {
     font-size: 35px;
     padding-top: 30px;
     padding-left: 20px;
-    box-sizing: border-box;
 }
 
 a {
